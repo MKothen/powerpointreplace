@@ -1,0 +1,8 @@
+_infra/
+.superpowers/
+decks/
+node_modules/
+dist/
+dist-app/
+.env
+.firebase/
